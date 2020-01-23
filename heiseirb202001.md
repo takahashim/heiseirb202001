@@ -19,7 +19,7 @@ style: |
 ---
 ## ソフトウェア開発における「自由」と<br />「反ハラスメント」について考える
 
-2020/01/23
+2020/01/23 平成.rb #11
 一般社団法人日本Rubyの会・株式会社達人出版会
 高橋征義
 
@@ -35,7 +35,7 @@ style: |
     * チケット販売中です！　来てね！
 * 株式会社達人出版会代表 https://tatsu-zine.com/
     * ITエンジニア向けの技術系電子書籍を売ったり作ったりしている会社
-* Re:VIEW, aozora2html
+* [Re:VIEW](https:/github.com/kmuto/review), [aozora2html](https://github.com/aozorahack/aozora2html)
 * 『入門mruby』
   * https://tatsu-zine.stores.jp/, https://tatsu-zine.booth.pm/
 * 好きな作家は新井素子
