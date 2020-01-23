@@ -1,0 +1,17 @@
+{
+  "name": "heiseirb202001",
+  "version": "1.0.0",
+  "description": "a presentation material for Heisei.rb 2020/01/23",
+  "main": "heiseirb202001.md",
+  "dependencies": {},
+  "devDependencies": {
+    "@marp-team/marp-cli": "^0.17.0"
+  },
+  "scripts": {
+    "clean": "rm -f *.html *.pdf *~",
+    "build": "marp --pdf heiseirb202001.md",
+    "html": "marp heiseirb202001.md"
+  },
+  "license": "CC-BY-4.0",
+  "author": "takahashim"
+}
